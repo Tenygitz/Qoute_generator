@@ -1,0 +1,10 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    color: white;
+}
+.Header>h1:hover{
+    color: rgb(201, 201, 201);
+}
