@@ -29,7 +29,8 @@
     margin:auto;
 }
 .Bookmark{
-    height: 90vh;
+    min-height:90vh;
+    padding-bottom: 20px;
 }
 .Bookmark>h1,p{
     text-align: center;

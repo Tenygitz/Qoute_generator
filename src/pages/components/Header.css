@@ -8,3 +8,8 @@
 .Header>h1:hover{
     color: rgb(201, 201, 201);
 }
+.bookmark-nav{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
